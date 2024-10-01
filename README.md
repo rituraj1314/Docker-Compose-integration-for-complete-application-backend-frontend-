@@ -1,1 +1,1 @@
-# Meta_Docker
+# Docker-Compose integration for complete application (backend+frontend)
